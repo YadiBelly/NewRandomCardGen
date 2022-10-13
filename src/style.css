@@ -13,14 +13,18 @@ body {
   border-radius: 10px;
   position: relative;
 }
-.top-suit {
+.card-top {
   position: absolute;
   top: 20px;
   left: 20px;
 }
-.bottom-suit {
+.card-bottom {
   position: absolute;
   bottom: 20px;
   right: 20px;
-  font-size: 80px;
+  font-size: 20px;
+}
+.center {
+  padding: 70px 0;
+  border: 3px solid green;
 }
